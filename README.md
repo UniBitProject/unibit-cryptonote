@@ -1,14 +1,5 @@
-# UniBitX App
+# UniBitX App v0.1.1.1286
 ## https://unibitx.app/
-
-  
-   _/    _/  _/      _/  _/_/_/  _/_/_/    _/_/_/  _/_/_/_/_/  _/      _/    
-  _/    _/  _/_/    _/    _/    _/    _/    _/        _/        _/  _/       
- _/    _/  _/  _/  _/    _/    _/_/_/      _/        _/          _/          
-_/    _/  _/    _/_/    _/    _/    _/    _/        _/        _/  _/         
- _/_/    _/      _/  _/_/_/  _/_/_/    _/_/_/      _/      _/      _/        
-
- UniBitX v0.1.1.1286
 
 #### Master Branch Build Status
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin) [![Build status](https://ci.appveyor.com/api/projects/status/github/turtlecoin/turtlecoin?branch=master&svg=true)](https://ci.appveyor.com/project/RocksteadyTC/turtlecoin)
